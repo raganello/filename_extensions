@@ -1,4 +1,4 @@
 filename_extensions
 ===================
 
-Common filename extensions (suffices / suffixes)
+Commonly-used filename extensions (suffices / suffixes)
